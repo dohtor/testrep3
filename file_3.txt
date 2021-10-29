@@ -1,1 +1,4 @@
 NEW FILE ADD
+
+Another line from user2
+
